@@ -1,4 +1,17 @@
-head {
-
+body {
+    background: black;
 }
+
+.page-title {
+    color: white;
+    background: black;
+    border-bottom: 1px solid white;
+    padding: 20px;
+}
+
+.page-subtitle {
+    color: white;
+    background: black;
+    border-bottom: 1px solid white;
+    padding: 10px;
 }
